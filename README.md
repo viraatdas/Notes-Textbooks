@@ -5,3 +5,4 @@ Notes from some cool textbooks I have read
 - Compilers: Principles, Techniques, and Tools [Dragon book]
 - Computer Networks and Internets
 - Deep Learning by Goodfellow
+- Introduction to the Theory of Computation by Michael Sipser
