@@ -1,7 +1,7 @@
 # Notes-Textbooks
-Notes from some cool textbooks I have read
+Notes from some books I have been reading
 
-- Operating System Design The Xinu Approach 2nd ed
+- The Linux Kernel Development 
 - Compilers: Principles, Techniques, and Tools [Dragon book]
 - Computer Networks and Internets
 - Deep Learning by Goodfellow
